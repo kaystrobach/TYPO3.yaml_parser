@@ -2,12 +2,12 @@
 	"name": "typo3-ter/yaml-parser",
 	"type": "typo3-cms-extension",
 	"description": "TYPO3 THEMES",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"homepage": "http://www.kay-strobach.de",
 	"license": ["GPL-2.0+"],
 	"keywords": ["TYPO3 CMS", "SYMFONY", "YAML", "PARSER"],
 	"support": {
-		"issues": "ihttps://github.com/kaystrobach/TYPO3.yaml_parser/issues"
+		"issues": "https://github.com/kaystrobach/TYPO3.yaml_parser/issues"
 	},
 	"require": {
 		"typo3/cms": "> 6.2"
